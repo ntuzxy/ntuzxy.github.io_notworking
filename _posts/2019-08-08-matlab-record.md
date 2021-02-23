@@ -2,7 +2,7 @@
 title: Record results as a video for demo
 author: xueyong
 date: 2021-02-23 11:33:00 +0800
-categories: [Blogging, Tutorial, Matlab]
+categories: [Tutorial, Matlab]
 tags: [matlab, video, gif, avi]
 math: true
 mermaid: true
