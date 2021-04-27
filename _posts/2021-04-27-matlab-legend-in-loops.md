@@ -3,27 +3,20 @@ title: Generate Legends for Figures Plotted in Loops
 author: xueyong
 date: 2021-04-26 11:33:00 +0800
 categories: [Tools, Matlab]
-tags: [matlab,ledgend, loop]
+tags: [matlab, ledgend, loop]
 math: true
 mermaid: true
 image:
-  src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
+  src: https://github.com/ntuzxy/ntuzxy.github.io/blob/master/figs/matlab/matlab_legend_loop.png
+
 ---
 
 
-## Titles
----
-# H1 - heading
-
-<h2 data-toc-skip>H2 - heading</h2>
-
-<h3 data-toc-skip>H3 - heading</h3>
-
-<h4>H4 - heading</h4>
+## How To Generate Legends for Figures Plotted in Loops
 ---
 <br>
 
-'''matlab
+```matlab
 % clear;clc;
 i=0; % for legend_str
 figure('name','plot in loops')
@@ -49,6 +42,10 @@ for m = 3:2:7
     end
 end
 legend(legend_str);
-'''
+```
 
-## Paragraph
+## Result
+
+![alt text](https://github.com/ntuzxy/ntuzxy.github.io/blob/master/figs/matlab/matlab_legend_loop.png "Legend Generation")
+
+![alt text](figs/matlab/matlab_legend_loop.png "Legend Generation")
