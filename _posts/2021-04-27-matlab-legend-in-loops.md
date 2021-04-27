@@ -7,7 +7,7 @@ tags: [matlab, ledgend, loop]
 math: true
 mermaid: true
 image:
-  src: https://github.com/ntuzxy/ntuzxy.github.io/blob/master/figs/matlab/matlab_legend_loop.png
+  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/matlab_legend_loop.png
 
 ---
 
@@ -46,7 +46,7 @@ legend(legend_str);
 
 ## Result
 
-![avatar](https://github.com/ntuzxy/ntuzxy.github.io/blob/master/figs/matlab/matlab_legend_loop.png "Legend Generation")
+![avatar](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/matlab_legend_loop.png "Legend Generation")
 
-![DLegend Generation](https://github.com/ntuzxy/ntuzxy.github.io/blob/master/figs/matlab/matlab_legend_loop.png){: width="400"}
+![Legend Generation](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/matlab_legend_loop.png){: width="400"}
 _400px image width_
