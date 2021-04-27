@@ -11,10 +11,9 @@ image:
 
 ---
 
-
 ## How To Generate Legends for Figures Plotted in Loops
 ---
-<br>
+
 ## Code
 
 ```matlab
@@ -49,4 +48,3 @@ legend(legend_str);
 
 ![alt text](https://github.com/ntuzxy/ntuzxy.github.io/blob/master/figs/matlab/matlab_legend_loop.png "Legend Generation")
 
-![alt text](figs/matlab/matlab_legend_loop.png "Legend Generation")
