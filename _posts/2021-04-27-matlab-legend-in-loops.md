@@ -22,7 +22,7 @@ i = 0; % for legend_str
 figure('name','plot in loops')
 LineStyle = '-';
 Marker = 'o+*.x';
-color = 'rgbkm'; 
+Color = 'rgbkm'; 
 % condition loop
 for m = 3:2:7
     for n = 4:2:8
@@ -34,7 +34,7 @@ for m = 3:2:7
             plot(x,y,...
                 'LineWidth',m*0.5, ...
                 'Marker',Marker(mod(i,5)+1),...
-                'Color',color(mod(i,5)+1)); 
+                'Color',Color(mod(i,5)+1)); 
             hold on; 
             i=i+1;
             legend_str{i} = ['M=', num2str(m), ',N=', num2str(n), ',K=', num2str(k)];
