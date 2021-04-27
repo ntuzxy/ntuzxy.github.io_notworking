@@ -15,6 +15,7 @@ image:
 ## How To Generate Legends for Figures Plotted in Loops
 ---
 <br>
+## Code
 
 ```matlab
 % clear;clc;
