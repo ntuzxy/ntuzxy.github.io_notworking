@@ -18,7 +18,7 @@ image:
 
 ```matlab
 % clear;clc;
-i=0; % for legend_str
+i = 0; % for legend_str
 figure('name','plot in loops')
 LineStyle = '-';
 Marker = 'o+*.x';
@@ -37,7 +37,7 @@ for m = 3:2:7
                 'Color',color(mod(i,5)+1)); 
             hold on; 
             i=i+1;
-            legend_str{i} = ['K=', num2str(m), ',N=', num2str(n),',K=', num2str(k)];
+            legend_str{i} = ['M=', num2str(m), ',N=', num2str(n), ',K=', num2str(k)];
         end
     end
 end
