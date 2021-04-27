@@ -46,5 +46,7 @@ legend(legend_str);
 
 ## Result
 
-![alt text](https://github.com/ntuzxy/ntuzxy.github.io/blob/master/figs/matlab/matlab_legend_loop.png "Legend Generation")
+![avatar](https://github.com/ntuzxy/ntuzxy.github.io/blob/master/figs/matlab/matlab_legend_loop.png "Legend Generation")
 
+![DLegend Generation](https://github.com/ntuzxy/ntuzxy.github.io/blob/master/figs/matlab/matlab_legend_loop.png){: width="400"}
+_400px image width_
