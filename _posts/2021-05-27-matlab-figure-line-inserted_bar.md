@@ -206,6 +206,5 @@ Need modify the legends manually.
 
 ## Result
 
-![histogram](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/tempreture_calibration.png "Histograms inserted into line chart")
-{: width=50%} *[^_^]: {: width="600"}
+![histogram](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/tempreture_calibration.png "Histograms inserted into line chart"){: width=50%}
 _Histograms inserted into line chart_
