@@ -92,7 +92,7 @@ for i = 1:10
 
     % put this block in the loop
     frame = getframe(fig);          %// Capture axes or figure as movie frame
-    writeVideo(writerObj,frame); 	  %// Write video data to file
+    writeVideo(writerObj,frame);    %// Write video data to file
 end
 
 % put this at the end of the loop
