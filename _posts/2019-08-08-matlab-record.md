@@ -17,7 +17,7 @@ This post is to show how to record results as animation or video using Matlab.
 ---
 # save data as gif
 ### function
-The function of 'save_as_fig' is as follows.
+The function of `save_as_fig` is as follows.
 
 ```matlab
 function save_as_gif(i, i0, fig, tpf, filename)
@@ -54,7 +54,7 @@ function save_as_gif(i, i0, fig, tpf, filename)
     % end
 ```
 
-According to the usage, uncomment code lines 15~21 and line 32, then run this part. The 'out.fig' file is generated.
+According to the usage, uncomment code lines 15~21 and line 32, then run this part. The `out.fig` file is generated.
 
 ### Call the function in a loop
 
@@ -72,7 +72,7 @@ for n = 1:0.5:5
 end
 ```
 
-The result of 'test.fig' is as follows.
+The result of `test.fig` is as follows.
 ![avatar](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/save_as_gif_test.gif "Save As GIF")
 
 
@@ -99,5 +99,5 @@ end
 close(writerObj);                   %// Close video file
 ```
 
-The result of 'out.avi' is as follows. (Cannot display video directly)
+The result of `out.avi` is as follows. (Github cannot display video directly!)
 ![avatar](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/save_as_avi.avi "Save As AVI")
