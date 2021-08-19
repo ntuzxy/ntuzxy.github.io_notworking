@@ -15,6 +15,7 @@ This post is to show how to record results as animation or video using Matlab.
 
 ## Title: Record results as an animation or video for demonstration
 ---
+# save data as gif
 ### function
 The function of ``save_as_fig" is as follows.
 
@@ -81,7 +82,7 @@ The result of "test.fig" is as follows.
 ```matlab
 % put this block ahead of the loop
 fig = figure;
-writerObj = VideoWriter('out.avi');	%// create video file
+writerObj = VideoWriter('out.avi'); %// create video file
 writerObj.FrameRate = 2;            %// set to 2 frames per second
 open(writerObj);                    %// open file for writing video data
 
@@ -91,7 +92,7 @@ for i = 1:10
 
     % put this block in the loop
     frame = getframe(fig);          %// Capture axes or figure as movie frame
-    writeVideo(writerObj,frame); 	%// Write video data to file
+    writeVideo(writerObj,frame); 	  %// Write video data to file
 end
 
 % put this at the end of the loop
