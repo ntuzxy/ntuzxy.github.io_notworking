@@ -71,6 +71,32 @@ for n = 1:0.5:5
 end
 ```
 
-The resuult of "out.fig" is as follows.
+The result of "test.fig" is as follows.
 ![avatar](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/save_as_gif_test.gif "Save As GIF")
 
+
+
+# save data as video
+
+```matlab
+% put this block ahead of the loop
+fig = figure;
+writerObj = VideoWriter('out.avi');	%// create video file
+writerObj.FrameRate = 2;            %// set to 2 frames per second
+open(writerObj);                    %// open file for writing video data
+
+for i = 1:10
+    plot(i,i^2,'.'); hold on;
+    axis([1,10,1,100]);
+
+    % put this block in the loop
+    frame = getframe(fig);          %// Capture axes or figure as movie frame
+    writeVideo(writerObj,frame); 	%// Write video data to file
+end
+
+% put this at the end of the loop
+close(writerObj);                   %// Close video file
+```
+
+The result of "out.avi" is as follows.
+![avatar](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/save_as_avi.avi "Save As AVI")
