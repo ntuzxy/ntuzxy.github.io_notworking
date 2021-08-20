@@ -1,5 +1,5 @@
 ---
-title: Generate Legends for Figures Plotted in Loops
+title: TESTING
 author: xueyong
 date: 2021-04-27 11:33:00 +0800
 categories: [Tools, Matlab]
@@ -23,7 +23,7 @@ image:
 ---
 <br>
 
-'''matlab
+```matlab
 % clear;clc;
 i=0; % for legend_str
 figure('name','plot in loops')
@@ -49,6 +49,6 @@ for m = 3:2:7
     end
 end
 legend(legend_str);
-'''
+```
 
 ## Paragraph
