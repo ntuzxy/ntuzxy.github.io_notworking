@@ -11,7 +11,7 @@ image:
 
 # Export data from cadence
 In ADE window, Tools -> Results Browser. 
-Go to ViVA window, select signals and hit right mouse button. 
+Go to ViVA window, select signals and hit right mouse button. Select table as follows.
 ![avatar](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/cadence/cadence_export_data_as_excel.png "Export As Excel")
 
 # Import data to matlab
