@@ -1,9 +1,9 @@
 ---
-title: Generate Legends for Figures Plotted in Loops
+title: Import data from cadence to matlab
 author: xueyong
 date: 2021-04-26 11:33:00 +0800
 categories: [Tools, Matlab]
-tags: [matlab, cadence, exel, data processing]
+tags: [matlab, cadence, excel, data processing]
 math: true
 mermaid: true
 image:
