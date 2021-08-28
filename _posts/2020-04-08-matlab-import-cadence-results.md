@@ -13,8 +13,20 @@ image:
 In ADE window, Tools -> Results Browser. 
 Go to ViVA window, select signals and hit right mouse button. Select table as follows.
 ![avatar](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/cadence/cadence_export_data_as_excel.png "Export As Excel")
+In the table window, select File -> Export
 
 # Import data to matlab
+
+## normal simulation data
+Normal transient simulation (without corner) data format is like this:
+
+|time |signal1  |signal2  |
+|:--: |:--:     |:--:     |
+|t1   |s1_value1|s2_value1|
+|t2   |s1_value2|s2_value2|
+|...  |...      |...      |
+
+Use the following MATLAB code to export the raw data (.csv) to MATLAB.
 
 ```matlab
 clear;clc;
