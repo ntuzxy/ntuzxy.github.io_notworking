@@ -45,11 +45,11 @@ Time = D(2:N,1);
 ## 1. normal simulation data
 Normal transient simulation (without corner) data format is like this:
 
-|time |signal(1)corner(1)  |signa(l)corner(2)  |signal(1)corner(n)  |
-|:--: |:--:             |:--:             |:...:|
-|t1   |value1     |s1_c2_value1     |s1_cn_value1     |
-|t2   |s1_c1_value2     |s1_c2_value2     |...  |
-|...  |...      |...      |...  |
+|time |signal1  |signal2  |
+|:--: |:--:     |:--:     |
+|t1   |s1_value1|s2_value1|
+|t2   |s1_value2|s2_value2|
+|...  |...      |...      |
 
 Use the following MATLAB code to export the raw data (.csv) to MATLAB.
 
