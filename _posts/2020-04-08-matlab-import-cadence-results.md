@@ -70,7 +70,7 @@ Data{1} = D(2:N,2:M);
 if num_corner > 1 %for corner simulation data
     Data_true = cell(1,num_corner);
     for i_corner = 1:num_corner
-        for i_data = i_corner:2*num_corner:M
+        for i_data = 2*i_corner-1:2*num_corner:M
             Data_true{i_corner} = [Data_true{i_corner}, Data{1}(:,i_data)];
         end
     end
