@@ -41,9 +41,8 @@ Time = D(2:N,1);
 [N,M] = size(Data);
 ```
 
-# Import data to matlab
-## 1. normal simulation data
-Normal transient simulation (without corner) data format is like this:
+## 2. corner simulation data
+Corner transient simulation data format is like this:
 
 |time |signal1  |signal2  |
 |:--: |:--:     |:--:     |
