@@ -54,7 +54,7 @@ Use the following MATLAB code to export the raw data (.csv) to MATLAB.
 
 ```matlab
 clear;clc;
-path = '/home/Div6/research/zhangray16/sim_results/diffusion';
+addpath('/home/Div6/research/zhangray16/sim_results/diffusion');
 A = importdata('diffusion_32x24_4x4_1_600_800_1000mV.csv');
 
 % corner = 0;
