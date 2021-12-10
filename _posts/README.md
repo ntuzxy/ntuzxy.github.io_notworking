@@ -7,22 +7,25 @@
 文件名必须以日期开头，且格式为YYYY-MM-DD-TITLE.EXTENSION。例如：2021-11-11-testing_for_a-b-c.md。
 
 ## 2. 文件头
-按一下格式填写文件头
+按以下格式填写文件头
+```
 ---
 title: TITLE
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [TAG]     # TAG names should always be lowercase
 ---
-
+```
 其中，title是真正的博客标题，data是发布时间，categories是分类（方便归档，最多只能有两项），tags是标签（方便搜索查找，标签数无限制）。
 默认情况，目录（TOC）会显示在博文右侧。
 
 此外，还可以在文件头配置其它内容（注：以下配置为非默认值）：
 ### 2.1 目录（TOC）
+```
 ---
 toc: false
 ---
+```
 ### 2.2 评论（Comments）
 ---
 comments: false
