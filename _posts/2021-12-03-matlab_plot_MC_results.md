@@ -13,7 +13,7 @@ mermaid: true
 ### function
 The function of `save_as_fig` is as follows.
 
-
+<center><embed src="https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/BL_MC.pdf" width="850" height="600"></center>
 
 # 2. Improt data in Matlab and plot MC results 
 
