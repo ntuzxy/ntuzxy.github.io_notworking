@@ -6,8 +6,7 @@ categories: [Tools, PPT]
 tags: [office, PPT, slides, progress bar]
 math: true
 mermaid: true
-image:
-[^_^]:  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/save_as_gif.gif
+
 ---
 
 This post is to show how to generate pogress bar for PPT using Visual Basic macro.
