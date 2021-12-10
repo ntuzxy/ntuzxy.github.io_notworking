@@ -1,7 +1,7 @@
 ---
 title: Generate Progress Bar for PPT
 author: xueyong
-date: 2021-12-03 11:33:00 +0800
+date: 2021-11-13 11:33:00 +0800
 categories: [Tools, PPT]
 tags: [office, PPT, slides, progress bar]
 math: true
