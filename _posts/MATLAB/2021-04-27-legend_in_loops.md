@@ -3,7 +3,7 @@ title: TESTING
 author: xueyong
 date: 2021-04-27 11:33:00 +0800
 categories: [Tools, Matlab]
-tags: [matlab,ledgend, loop]
+tags: [matlab, ledgend, loop]
 math: true
 mermaid: true
 image:
