@@ -13,7 +13,7 @@ mermaid: true
 
 In ADE result, select `Detail-Transpose`.
 
-`Tools' -> `Export Data'
+`Tools` -> `Export Data`
 
 
 # 2. Improt data in Matlab and plot MC results 
