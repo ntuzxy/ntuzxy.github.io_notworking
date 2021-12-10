@@ -55,4 +55,4 @@ ylabel({'BL voltage (V)'});
 ```
 
 
-![Image Title](./master/figs/matlab/BL_MC.pdf){width=75%}.
+
