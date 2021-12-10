@@ -13,14 +13,13 @@ mermaid: true
 ### function
 The function of `save_as_fig` is as follows.
 
-<embed
+<iframe
     src="http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&navpanes=0&scrollbar=0"
-    type="application/pdf"
     frameBorder="0"
     scrolling="auto"
     height="100%"
     width="100%"
-></embed>
+></iframe>
 
 # 2. Improt data in Matlab and plot MC results 
 
