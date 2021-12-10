@@ -7,7 +7,7 @@ tags: [matlab, cadence, Monte Carlo, MC, plot]
 math: true
 mermaid: true
 image:
-  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/save_as_gif.gif
+  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/BL_MC.pdf
 ---
 
 ---
@@ -25,7 +25,7 @@ filname = 'ExplorerRun_0_transpose.csv';
 
 % preview & read data
 opts = detectImportOptions(filname);
-preview(filname,opts)
+preview(filname,opts) %preview data, optional
 D = readmatrix(filname);
 [N,M] = size(D);
 % get interested data
@@ -51,3 +51,6 @@ plot(var,D2);
 xlabel({'# of cells'});
 ylabel({'BL voltage (V)'});
 ```
+
+
+![Image Title](./master/figs/matlab/BL_MC.pdf){width=75%}.
