@@ -10,16 +10,11 @@ mermaid: true
 
 ---
 # 1. Export MC data from Cadence
-### function
-The function of `save_as_fig` is as follows.
 
-<iframe
-    src="http://infolab.stanford.edu/pub/papers/google.pdf#toolbar=0&navpanes=0&scrollbar=0"
-    frameBorder="0"
-    scrolling="auto"
-    height="100%"
-    width="100%"
-></iframe>
+In ADE result, select `Detail-Transpose`.
+
+`Tools' -> `Export Data'
+
 
 # 2. Improt data in Matlab and plot MC results 
 
