@@ -6,8 +6,7 @@ categories: [Tools, Matlab]
 tags: [matlab, cadence, Monte Carlo, MC, plot]
 math: true
 mermaid: true
-image:
-  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/BL_MC.png
+
 ---
 
 ---
