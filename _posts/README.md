@@ -27,28 +27,37 @@ toc: false
 ---
 ```
 ### 2.2 评论（Comments）
+```
 ---
 comments: false
 ---
+```
 ### 2.3 数学公式（Mathematics）
+```
 ---
 math: true
 ---
+```
 ### 2.4 绘图（Mermaid）
+```
 ---
 mermaid: true
 ---
+```
 ### 2.5 图片（Images)
+```
 ---
 image:
   src: /path/to/image/file
   alt: image alternative text
 ---
-
+```
 ### 2.6 置顶博文
+```
 ---
 pin: true
 ---
+```
 
 
 
