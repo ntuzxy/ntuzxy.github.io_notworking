@@ -14,7 +14,7 @@ This post is to show how to generate pogress bar for PPT using Visual Basic macr
 
 ## Create VBA (Visual Basic Application)
 ### 1. Open the PowerPoint presentation that you would like to create a progress bar for. 
-### 2. Once it’s open, click the “View” tab, then select “Macros.” OR use shortcuts `Alt``F11` to open the “Microsoft Visual Basic for Applications (VBA)” window.
+### 2. Once it’s open, click the “View” tab, then select “Macros.” OR use shortcuts `Alt` + `F11` to open the “Microsoft Visual Basic for Applications (VBA)” window.
 ### 3. Copy the VB code and run.
 The function of `ProgressBar` is as follows.
 
