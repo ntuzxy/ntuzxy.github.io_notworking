@@ -62,10 +62,19 @@ pin: true
 ```
 
 
-
-
 ## 3. 全局配置 (慎改)
 源配置文件`_config.yml`
+
+
+## 4. 其它常用功能
+### -插入pdf文档
+```
+<center><embed src="https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/BL_MC.pdf" width="850" height="600"></center>
+```
+注意：一般浏览器会默认下载pdf文件而不是直接打开，可以添加插件（extension）在网页直接显示pdf文档内容。  
+例如，chrome浏览器可以添加`PDF Viewer`插件。
+
+### -插入PPT文档
 
 
 
