@@ -6,6 +6,8 @@ categories: [Tools, Matlab]
 tags: [matlab, plot, settings, paper]
 math: true
 mermaid: true
+image:
+  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/matlab_plot_settings.png
 ---
 
 可以用于paper的图片设置
@@ -43,7 +45,7 @@ title('NMOS IV Curve');
 显示效果如下：
 <center><embed src="https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/matlab_plot_settings.pdf" width="850" height="600"></center>
 
-
+![](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/matlab_plot_settings.png)
 
 
 
