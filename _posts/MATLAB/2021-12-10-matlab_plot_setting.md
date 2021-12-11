@@ -1,16 +1,14 @@
 ---
-title: Test the Subfolder
+title: Matlab Plot Settings
 author: xueyong
 date: 2021-12-10 11:33:00 +0800
 categories: [Tools, Matlab]
-tags: [matlab, test]
+tags: [matlab, plot, settings, paper]
 math: true
 mermaid: true
 ---
 
-## Check whether the subfolder works
----
-
+可以用于paper的图片设置
 ## Code
 ```matlab
 % This is from startup.m (on website)
@@ -42,13 +40,10 @@ title('NMOS IV Curve');
 ```
 
 
-1
+显示效果如下：
+<center><embed src="https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/matlab_plot_settings.pdf" width="850" height="600"></center>
 
-<center><embed src="https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/BL_MC.pdf" width="850" height="600"></center>
 
-2
-
-[Image Title](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/BL_MC.pdf){width=75%}.
 
 
 
