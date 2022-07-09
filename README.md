@@ -12,5 +12,5 @@ The navigation at the left of blog includes: `HOME` `CATEGORIES` `TAGS` `ARCHIVE
   Can find interested blog quickly.
 * ARCHIVES  
   Show posts with timeline.
-* ABOUT 
+* ABOUT  
   Add Markdown syntax content to file _tabs/about.md and it will show up on this page.
