@@ -9,7 +9,7 @@ comments: true
 math: true
 mermaid: true
 image:
-  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/matlab_legend_loop.png
+  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/matlab_boxplot.png
 
 ---
 
