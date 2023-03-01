@@ -100,4 +100,6 @@ close(writerObj);                   %// Close video file
 ```
 
 The result of `out.avi` is as follows. (Github cannot display video directly!)
-![avatar](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/save_as_avi.avi "Save As AVI")
+
+However, you can download
+![here](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/save_as_avi.avi "Save As AVI")
