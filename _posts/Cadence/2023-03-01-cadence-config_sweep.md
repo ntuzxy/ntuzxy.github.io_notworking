@@ -7,7 +7,7 @@ tags: [cadence, ADE assembler, config sweep]
 math: true
 mermaid: true
 image:
-  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/cadence/config_sweep.gif
+  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/cadence/config_sweep.png
 ---
 
 This post is to show how to run simulations with different views simultaneously.
@@ -38,6 +38,6 @@ end
 ```
 
 The result of `test.fig` is as follows.
-![avatar](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/cadence/config_sweep.gif "Config Sweep")
+![avatar](https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/cadence/config_sweep.png "Config Sweep")
 
 
