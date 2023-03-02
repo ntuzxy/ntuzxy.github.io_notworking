@@ -1,18 +1,5 @@
 ---
-title: [q] Record results as an animation or video for demo
-author: xueyong
-date: 2021-02-23 11:33:00 +0800
-categories: [Tools, Matlab]
-tags: [matlab, animation, video, gif, avi]
-math: true
-mermaid: true
-image:
-  src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/matlab/save_as_gif.gif
----
-
-
-
-title: [Cadence] simultaneously run simulations with different views
+title: simultaneously run simulations with different views
 author: xueyong
 date: 2023-03-01 11:33:00 +0800
 categories: [Tools, Cadence]
@@ -21,7 +8,7 @@ math: true
 mermaid: true
 image:
   src: https://raw.githubusercontent.com/ntuzxy/ntuzxy.github.io/master/figs/cadence/config_sweep.png
-
+---
 
 This post is to show how to run simulations with different views simultaneously.
 
