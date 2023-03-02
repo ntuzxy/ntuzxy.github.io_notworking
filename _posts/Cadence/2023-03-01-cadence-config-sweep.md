@@ -1,5 +1,5 @@
 ---
-title: [Cadence] simultaneously run simulations with different views simultaneously
+title: [Cadence] simultaneously run simulations with different views
 author: xueyong
 date: 2023-03-01 11:33:00 +0800
 categories: [Tools, Cadence]
