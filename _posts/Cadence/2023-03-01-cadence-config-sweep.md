@@ -12,8 +12,6 @@ image:
 
 This post is to show how to run simulations with different views simultaneously.
 
-
-## Title: [Cadence] simultaneously run simulations with different views of a cell 
 ---
 # setup
 1. In ADE assembler window, right click `Global Variables` and select `Add Config Sweep`.
